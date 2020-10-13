@@ -1,0 +1,5 @@
+The transformation applied here is AFFINE Transformation.
+
+This directory contains the input image on which affine transformation was applied as well as the respective output image.
+
+The RED Points denotes the old points which were used for the process of transformation as well as the GREEN points depicts the new locations of the RED points after the transformation.
