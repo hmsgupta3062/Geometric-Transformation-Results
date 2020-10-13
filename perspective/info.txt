@@ -1,4 +1,4 @@
-The transformation applied here is PERSPECTIVE Transformation.
+The geometric transformation applied here is PERSPECTIVE Transformation.
 
 This directory contains the input image on which perspective transformation was applied as well as the respective output image.
 
