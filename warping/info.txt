@@ -1,0 +1,5 @@
+The geometric transformation applied here is WARPING.
+
+All the effects are produced with the help of different mathematical equations and this can be done on any input image for the purpose of fun and recreation. 
+
+The parameters can also be varied accordingly to produce the new effective results.
