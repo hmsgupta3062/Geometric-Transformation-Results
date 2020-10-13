@@ -1,0 +1,3 @@
+The geometric transformation applied here is ROTATION.
+
+The image can be rotated in any direction by any angle ranging from 0 deg - 360 deg.
