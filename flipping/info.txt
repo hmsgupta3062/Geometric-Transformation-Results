@@ -1,1 +1,1 @@
-The transformation applied here is FLIP.
+The geometric transformation applied here is FLIP.
