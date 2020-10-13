@@ -1,0 +1,3 @@
+The transformation applied here is PYRAMID.
+
+The Pyramid transformation is applied both Upwards (increasing the size) as well as Downwards (decreasing the size).
